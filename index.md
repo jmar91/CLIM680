@@ -1,6 +1,6 @@
 # The Use of the Mixed Layer Depth as a Proxy for the Strength of the Atlantic Meridional Overturning Circulation in a Preindustrial Control Simulation
 
-## Jon Martin 
+## Jon Martin  
 
 
 ### Introduction:
@@ -19,4 +19,4 @@ The analysis conducted here examines the MLD and AMOC taken from a 3000 year lon
 
 ### Summary
 
-The greatest MLD occurs during the spring (MAM) around the Iceland Basin. In years where the AMOC is above average, the MLD around this region is significantly deeper than in years where the strength of the AMOC is below the mean. The correlation map shows a slight positive correlation around this region, which is further supported by both linear regression and tests for statistical significance that show a strong positive relationship between the max AMOC and the MLD around the Iceland Basin.. What can be gathered from these results is that, while the MLD is not perfectly related to the AMOC in the Northern Atlantic, it does function as a fairly useful proxy for deepwater formation. Two technical challenges that had to be overcome in this process were to figure out how to get means each year for a season, and to look at one specific area of the maps using cartopy.
+The greatest MLD occurs during the spring (MAM) around the Iceland Basin. In years where the AMOC is above average, the MLD around this region is significantly deeper than in years where the strength of the AMOC is below the mean. The correlation map shows a slight positive correlation around this region, which is further supported by both linear regression and tests for statistical significance that show a strong positive relationship between the max AMOC and the MLD around the Iceland Basin.. What can be gathered from these results is that, while the MLD is not perfectly related to the AMOC in the Northern Atlantic, it does function as a fairly useful proxy for deepwater formation. Two technical challenges that had to be overcome in this process were to figure out how to get means each year for a season, and to specify and area of interest in cartopy.
